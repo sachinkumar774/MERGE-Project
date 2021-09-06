@@ -1,1 +1,8 @@
-
+{
+    "name": "SACHIN KUMAR",
+    "course": "B.Tech CSE",
+    "batch": "2020-2024",
+    "institution": "K.R. MANGALAM UNIVERSITY",
+    "skills_hobbies": ["PYTHON", "HTML/CSS", "JAVASCRIPT", "READING", "PLAYING"],
+    "about": "Future Software Engineer"
+}
